@@ -10,6 +10,5 @@ Sobre mim:
 Tecnologias e Habilidades:
   Linguagens(estudando): HTML5, JavaScript, Java, Python, MySQL.
   Conhecimento em pacote Office.
-
-Como me encontrar:
+  
   LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-paulo-teles-da-silva-3a0063418/
