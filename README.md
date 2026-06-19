@@ -8,7 +8,7 @@ Sobre mim:
   Curiosidade: Gosto de desafios, quebrar a cabeça em busca de respostas e resultados.
 
 Tecnologias e Habilidades:
-  Linguagens(estudando): HTML5, JavaScript, Java, MySQL.
+  Linguagens(estudando): HTML5, JavaScript, Java, Python, MySQL.
   Conhecimento em pacote Office.
 
 Como me encontrar:
